@@ -39,8 +39,8 @@ AI-Document-Knowledge-Assistant/
 | Milestone | Focus | Deliverables | Status |
 | :--- | :--- | :--- | :--- |
 | **Week 1** | **Scope Definition & Baseline Analysis** | Baseline Audit Report, Project Charter & KPIs, Workspace Setup | **✅ Completed** |
-| **Week 2** | **Framework & Workflow Design** | Document Chunking Architecture, Prompt Design, Vector Pipeline | 🔒 Next Step |
-| **Week 3** | **Execution & Tool Integration** | LangChain RAG pipeline, OpenAI embeddings, FAISS vector indexing | 🔒 Pending |
+| **Week 2** | **Framework & Workflow Design** | Core Framework Draft, Standardized Templates, Test Scenario Log | **✅ Completed** |
+| **Week 3** | **Execution & Tool Integration** | LangChain RAG pipeline, OpenAI embeddings, FAISS vector indexing | 🔒 Next Step |
 | **Week 4** | **Implementation, SOPs & Final Demo** | Streamlit UI, SOP Wiki, and 3-5 Minute Loom Walkthrough Video | 🔒 Pending |
 
 ---
@@ -102,3 +102,4 @@ streamlit run src/app.py
 ## 👤 Author
 * **Project Role:** AI Ambassador & Engineering Intern
 * **Program:** DataCrumbs Ambassador & Capstone Internship Program
+

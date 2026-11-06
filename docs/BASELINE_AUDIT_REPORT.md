@@ -70,3 +70,4 @@ To solve this, we evaluated different architectural approaches and selected a st
 
 ## 6. Week 1 Audit Conclusion
 The baseline audit confirms that an interactive **RAG Assistant using LangChain, OpenAI, FAISS/Chroma, and Streamlit** is the optimal solution for technical document discovery. It eliminates manual search friction while maintaining 100% verifiability through clickable source citations.
+
