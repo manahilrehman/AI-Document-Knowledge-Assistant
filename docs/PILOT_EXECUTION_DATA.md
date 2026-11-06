@@ -53,3 +53,4 @@ During Week 3, the integrated Streamlit + FAISS RAG application was subjected to
 1. **Deterministic Speed:** Streaming tokens combined with lightweight local vector similarity yields consistent sub-1.3s response cycles across all query types.
 2. **Metadata Integrity:** Attaching section headers directly during the recursive chunking stage completely eliminated citation ambiguity.
 3. **Refusal Reliability:** The anti-hallucination prompt guard successfully caught and neutralized 100% of ungrounded questions (RUN-09 & RUN-10).
+

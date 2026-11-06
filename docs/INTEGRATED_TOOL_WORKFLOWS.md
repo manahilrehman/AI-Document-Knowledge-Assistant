@@ -73,3 +73,4 @@ Every query follows a deterministic, unidirectional data path:
 $$\text{Query} \xrightarrow{\text{Embed}} \vec{q} \xrightarrow{\text{FAISS Top-}K} \{C_1, C_2, C_3\} \xrightarrow{\text{Prompt Injection}} \text{LLM} \xrightarrow{\text{Synthesis}} \text{Response} + \text{Citations}$$
 
 This guarantees zero data leaks and ensures all generated answers are fully verifiable.
+
