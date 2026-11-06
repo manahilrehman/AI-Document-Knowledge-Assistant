@@ -105,3 +105,4 @@ To meet the project KPI requirement of **Response Time < 2.0 Seconds**, each ope
 
 2. **Failure Mode: Conflicting Information Across Multiple Versions**
    * *Safeguard:* Metadata includes file modification timestamps. Retrieval ranks newer documents higher in similarity tie-breaks.
+

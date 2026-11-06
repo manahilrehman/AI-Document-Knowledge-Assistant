@@ -40,8 +40,8 @@ AI-Document-Knowledge-Assistant/
 | :--- | :--- | :--- | :--- |
 | **Week 1** | **Scope Definition & Baseline Analysis** | Baseline Audit Report, Project Charter & KPIs, Workspace Setup | **✅ Completed** |
 | **Week 2** | **Framework & Workflow Design** | Core Framework Draft, Standardized Templates, Test Scenario Log | **✅ Completed** |
-| **Week 3** | **Execution & Tool Integration** | LangChain RAG pipeline, OpenAI embeddings, FAISS vector indexing | 🔒 Next Step |
-| **Week 4** | **Implementation, SOPs & Final Demo** | Streamlit UI, SOP Wiki, and 3-5 Minute Loom Walkthrough Video | 🔒 Pending |
+| **Week 3** | **Execution & Tool Integration** | Integrated Tool Workflows, Pilot Execution Data, SLA Checklist | **✅ Completed** |
+| **Week 4** | **Implementation, SOPs & Final Demo** | Streamlit UI, SOP Wiki, and 3-5 Minute Loom Walkthrough Video | 🔒 Next Step |
 
 ---
 
