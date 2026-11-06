@@ -73,3 +73,4 @@ To solve this, I designed and built an end-to-end **Retrieval-Augmented Generati
 
 ## 6. Conclusion
 The **AI Document Knowledge Assistant** proves that lightweight, grounded RAG architectures can completely eliminate internal documentation search bottlenecks while maintaining 100% auditability through source citations.
+
